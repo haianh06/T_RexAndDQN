@@ -7,3 +7,9 @@
 - Run the file `main_result.py` to enjoy the game.  
 - If you want to play the game manually, press the **Space** key.  
 - Otherwise, click the **X button** on the game screen to let the AutoBot play for you.
+
+## 📹 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/r5dxhQovehs/hqdefault.jpg)](https://youtu.be/r5dxhQovehs)
+
+
